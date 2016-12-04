@@ -1,5 +1,5 @@
 # script-jutge
-Script per compilar, provar i comparar tots els jocs de probes d'un problema de jutge.org
+Script per compilar, provar i comparar tots els jocs de proves d'un problema de jutge.org
 
 (Descarregar i descomprimir les carpetes de jocs de proves DINS del directori del script)
 
@@ -11,8 +11,8 @@ Sintaxi:
 
 exemples:
 
-./jutge.sh P22295_ca/ tortuga.cpp 3
+./jutge.sh tortugaP22295.cpp P22295_ca/ 3
 
-./jutge.sh P16249_en/ escarabat.cpp
+./jutge.sh escarabatP16249.cpp P16249_en/
 
-./jutge.sh proves/P16249_en/ programes/pro1/escarabat.cpp
+./jutge.sh programes/pro1/escarabatP16249.cpp proves/P16249_en/
