@@ -11,8 +11,8 @@ Sintaxi:
 
 exemples:
 
-./jutge.sh tortugaP22295.cpp P22295_ca/ 3
+  $./jutge.sh tortugaP22295.cpp P22295_ca/ 3
 
-./jutge.sh escarabatP16249.cpp P16249_en/
+  $./jutge.sh escarabatP16249.cpp P16249_en/
 
-./jutge.sh programes/pro1/escarabatP16249.cpp proves/P16249_en/
+  $./jutge.sh programes/pro1/escarabatP16249.cpp proves/P16249_en/
