@@ -1,8 +1,6 @@
 # script-jutge
 Script per compilar, provar i comparar tots els jocs de proves d'un problema de jutge.org
 
-(Descarregar i descomprimir les carpetes de jocs de proves DINS del directori del script)
-
 Sintaxi:
 ./jutge.sh NOM-ARXIU NOM-PROBLEMA
 
